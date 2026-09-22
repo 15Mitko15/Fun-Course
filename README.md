@@ -1,4 +1,4 @@
-# WEB-project
+# Fun Cource
 
 ## This is a draft version
 ### What we have so far:
