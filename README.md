@@ -1,4 +1,4 @@
-# Fun Cource
+# Fun-Course
 
 ## This is a draft version
 ### What we have so far:
